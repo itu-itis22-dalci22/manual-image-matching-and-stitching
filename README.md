@@ -55,8 +55,8 @@ manual-image-matching-and-stitching/
 │   ├── custom_image1.jpg
 │   ├── custom_image2.jpg
 │   └── correspondences (JSON output)
-├── dataset1
-├── dataset2
+├── dataset1/
+├── dataset2/
 ├── ClickMatchVisualizer.py
 ├── image_stitch_implementation.ipynb
 └── README.md
